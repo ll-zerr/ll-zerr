@@ -1,4 +1,7 @@
-### Hi there, I'm Laura Zerr! 👋
+<!-- Hi there! Welcome to my page!-->
+<img src='images/Github_gif30s.gif' alt="welcome to my page banner"></img>
+<h1 align="center"> I'm Laura Zerr! 👋 </h1> 
+
 
 <!--
 **ll-zerr/ll-zerr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
