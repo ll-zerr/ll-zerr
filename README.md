@@ -12,7 +12,7 @@
   
 - ⚡ Fun fact: I am a **trivia enthusiast** and **hobbyist photographer**.
 
-<img src='images/GitHub_banner.png' alt="banner with links"></img>
+<img src='images/GitHub_banner2.png' alt="banner with links"></img>
 <!--
 **ll-zerr/ll-zerr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
