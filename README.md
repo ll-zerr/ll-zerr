@@ -37,8 +37,8 @@
 
 ### 🔥 My Stats:
 
-![Laura's GitHub stats](https://github-readme-stats.vercel.app/api?username=ll-zerr&show_icons=true&theme=tokyonight)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ll-zerr&theme=tokyonight)](https://git.io/streak-stats)
+![Laura's GitHub stats](https://github-readme-stats.vercel.app/api?username=ll-zerr&show_icons=true&layout=compact&theme=tokyonight)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ll-zerr&layout=compact&theme=tokyonight)](https://git.io/streak-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ll-zerr&layout=compact&theme=tokyonight) 
 
 
