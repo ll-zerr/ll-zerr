@@ -49,7 +49,7 @@
   <img width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ll-zerr&layout=compact&theme=tokyonight" alt=""/>
 </div>
 
-
+**Thank you to [Anurag Hazra](https://github.com/anuraghazra) for the use of the [GitHub Readme Stats repo](https://github.com/anuraghazra/github-readme-stats).</p>*
 <img src='images/GitHub_banner2.png' alt="banner with links"></img>
 <!--
 **ll-zerr/ll-zerr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
