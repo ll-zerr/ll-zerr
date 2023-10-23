@@ -4,7 +4,7 @@
 <h1 align="left"> I'm Laura Zerr! 👋🏻</h1>
 <p>A Front End Web Developer with a strong background in Psychology, dedicated to creating dynamic web applications. I love using my scientific skills and creativity when transforming ideas into functionally beautiful products. I am constantly seeking opportunities to expand my knowledge and embrace new challenges along the way.</p>
 
-<img align="right" alt="custom octocat" width="300" src="images/octocat-1698081660532.png"/>
+<img align="right" alt="custom octocat" width="175" src="images/octocat-1698081660532.png"/>
 
 - 🔭 I’m working on strengthing my **JavaScript** and **React** skills.
   
