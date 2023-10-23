@@ -4,7 +4,7 @@
 <h1 align="left"> I'm Laura Zerr! 👋🏻</h1>
 <p>A Front End Web Developer with a strong background in Psychology, dedicated to creating dynamic web applications. I love using my scientific skills and creativity when transforming ideas into functionally beautiful products. I am constantly seeking opportunities to expand my knowledge and embrace new challenges along the way.</p>
 
-- 🔭 I’m working on expanding my **JavaScript** and **React** skills.
+- 🔭 I’m working on strengthing my **JavaScript** and **React** skills.
   
 - 🌱 I’m learning how to build **AI Apps with ChatGPT**, **DALL-E**, and **GPT-4**.
 
@@ -37,7 +37,10 @@
 
 ### 🔥 My Stats:
 
+![Laura's GitHub stats](https://github-readme-stats.vercel.app/api?username=ll-zerr&show_icons=true&theme=tokyonight)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ll-zerr&theme=tokyonight)](https://git.io/streak-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ll-zerr&layout=compact&theme=tokyonight) 
+
 
 <img src='images/GitHub_banner2.png' alt="banner with links"></img>
 <!--
