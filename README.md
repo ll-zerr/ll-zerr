@@ -37,9 +37,15 @@
 
 ### 🔥 My Stats:
 
-![Laura's GitHub stats](https://github-readme-stats.vercel.app/api?username=ll-zerr&show_icons=true&layout=compact&theme=tokyonight)
+<!-- ![Laura's GitHub stats](https://github-readme-stats.vercel.app/api?username=ll-zerr&show_icons=true&layout=compact&theme=tokyonight)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ll-zerr&layout=compact&theme=tokyonight)](https://git.io/streak-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ll-zerr&layout=compact&theme=tokyonight) 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ll-zerr&layout=compact&theme=tokyonight) --> 
+
+<div>
+  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=ll-zerr&show_icons=true&theme=tokyonight" alt=""/>
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=ll-zerr&theme=tokyonight" alt=""/>
+  <img width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ll-zerr&layout=compact&theme=tokyonight" alt=""/>
+</div>
 
 
 <img src='images/GitHub_banner2.png' alt="banner with links"></img>
