@@ -8,7 +8,7 @@
 
 - 🔭 I’m working on strengthing my **JavaScript** and **React** skills.
   
-- 🌱 I’m learning how to build **AI Apps with ChatGPT**, **DALL-E**, and **GPT-4**.
+- 🌱 I’m learning about **Software Testing** and **Validation**.
 
 - ⚡ Fun fact: I am a **hobbyist photographer**.
   
